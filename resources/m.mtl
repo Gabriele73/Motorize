@@ -1,0 +1,498 @@
+newmtl FuelRailGauge1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka FuelRailGauge1_diff.png
+map_Kd FuelRailGauge1_diff.png
+map_d FuelRailGauge1_diff.png
+
+newmtl Pallet0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Pallet0011_diff.png
+map_Kd Pallet0011_diff.png
+map_d Pallet0011_diff.png
+
+newmtl Belt1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Belt1_diff.png
+map_Kd Belt1_diff.png
+map_d Belt1_diff.png
+
+newmtl Tyre1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Tyre1_diff.png
+map_Kd Tyre1_diff.png
+map_d Tyre1_diff.png
+
+newmtl Gearbox1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Gearbox1_diff.png
+map_Kd Gearbox1_diff.png
+map_d Gearbox1_diff.png
+
+newmtl Electronic1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Electronic1_diff.png
+map_Kd Electronic1_diff.png
+map_d Electronic1_diff.png
+
+newmtl Meshesk20k20a0451Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20k20a0451_diff.png
+map_Kd Meshesk20k20a0451_diff.png
+map_d Meshesk20k20a0451_diff.png
+
+newmtl Meshesk20k20a0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+newmtl Pulley1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Pulley1_diff.png
+map_Kd Pulley1_diff.png
+map_d Pulley1_diff.png
+
+newmtl OilPan1Mtl
+Material Color
+Ka 0.0209511 0.0209511 0.0209511
+Kd 0.0209511 0.0209511 0.0209511
+Ks 0.00829829 0.00829829 0.00829829 
+
+d 1
+
+Ns 0
+
+newmtl Meshesk20k20a0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20k20a0021_diff.png
+map_Kd Meshesk20k20a0021_diff.png
+map_d Meshesk20k20a0021_diff.png
+
+newmtl Meshesk20srubasilnik00301Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00301_diff.png
+map_Kd Meshesk20srubasilnik00301_diff.png
+map_d Meshesk20srubasilnik00301_diff.png
+
+newmtl OilFilter1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka OilFilter1_diff.png
+map_Kd OilFilter1_diff.png
+map_d OilFilter1_diff.png
+
+newmtl Block1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Block1_diff.png
+map_Kd Block1_diff.png
+map_d Block1_diff.png
+
+newmtl Bolts2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Bolts2_diff.png
+map_Kd Bolts2_diff.png
+map_d Bolts2_diff.png
+
+newmtl PulleyBolt1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka PulleyBolt1_diff.png
+map_Kd PulleyBolt1_diff.png
+map_d PulleyBolt1_diff.png
+
+newmtl FuelRail1Mtl
+Material Color
+Ka 0.0111261 0.0869013 0.493616
+Kd 0.0111261 0.0869013 0.493616
+Ks 0.000959897 0.00749736 0.0425865 
+
+d 1
+
+Ns 255
+
+map_Ns FuelRail1_spec.png
+
+newmtl Intake1Mtl
+Material Color
+Ka 0.722672 0.722672 0.722672
+Kd 0.722672 0.722672 0.722672
+Ks 0.286235 0.286235 0.286235 
+
+d 1
+
+Ns 0
+
+newmtl Bolts1Mtl
+Material Color
+Ka 0.875138 0.875138 0.875138
+Kd 0.875138 0.875138 0.875138
+Ks 0.346623 0.346623 0.346623 
+
+d 1
+
+Ns 0
+
+newmtl ValveCover1Mtl
+Material Color
+Ka 0.311181 0 0
+Kd 0.311181 0 0
+Ks 0.0268469 0 0 
+
+d 1
+
+Ns 255
+
+map_Ns FuelRail1_spec.png
+
+newmtl CoilCover1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka CoilCover1_diff.png
+map_Kd CoilCover1_diff.png
+map_d CoilCover1_diff.png
+
+newmtl OilCap1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka OilCap1_diff.png
+map_Kd OilCap1_diff.png
+map_d OilCap1_diff.png
+
+newmtl IdkWhatIsThisThing1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka IdkWhatIsThisThing1_diff.png
+map_Kd IdkWhatIsThisThing1_diff.png
+map_d IdkWhatIsThisThing1_diff.png
+
+newmtl Meshesk20srubasilnik00251Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00251_diff.png
+map_Kd Meshesk20srubasilnik00251_diff.png
+map_d Meshesk20srubasilnik00251_diff.png
+
+newmtl Meshesk20srubasilnik00201Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00201_diff.png
+map_Kd Meshesk20srubasilnik00201_diff.png
+map_d Meshesk20srubasilnik00201_diff.png
+
+newmtl Meshesk20srubasilnik00241Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00241_diff.png
+map_Kd Meshesk20srubasilnik00241_diff.png
+map_d Meshesk20srubasilnik00241_diff.png
+
+newmtl Meshesk20srubasilnik00231Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00231_diff.png
+map_Kd Meshesk20srubasilnik00231_diff.png
+map_d Meshesk20srubasilnik00231_diff.png
+
+newmtl Meshesk20srubasilnik00291Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00291_diff.png
+map_Kd Meshesk20srubasilnik00291_diff.png
+map_d Meshesk20srubasilnik00291_diff.png
+
+newmtl TwinSuperchargerMount1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerMount1_diff.png
+map_Kd TwinSuperchargerMount1_diff.png
+map_d TwinSuperchargerMount1_diff.png
+
+newmtl Meshesk20srubasilnik00181Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesk20srubasilnik00181_diff.png
+map_Kd Meshesk20srubasilnik00181_diff.png
+map_d Meshesk20srubasilnik00181_diff.png
+
+newmtl PowerSteeringPulley1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka PowerSteeringPulley1_diff.png
+map_Kd PowerSteeringPulley1_diff.png
+map_d PowerSteeringPulley1_diff.png
+
+newmtl TwinSuperchargerBolt1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerBolt1_diff.png
+map_Kd TwinSuperchargerBolt1_diff.png
+map_d TwinSuperchargerBolt1_diff.png
+
+newmtl TwinSuperchargerPulley1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerPulley1_diff.png
+map_Kd TwinSuperchargerPulley1_diff.png
+map_d TwinSuperchargerPulley1_diff.png
+
+newmtl TwinSuperchargerCoil1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerCoil1_diff.png
+map_Kd TwinSuperchargerCoil1_diff.png
+map_d TwinSuperchargerCoil1_diff.png
+
+newmtl TwinSuperchargerBolt2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerBolt2_diff.png
+map_Kd TwinSuperchargerBolt2_diff.png
+map_d TwinSuperchargerBolt2_diff.png
+
+newmtl TwinSupercharger1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSupercharger1_diff.png
+map_Kd TwinSupercharger1_diff.png
+map_d TwinSupercharger1_diff.png
+
+newmtl TwinSuperchargerBolt3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka TwinSuperchargerBolt3_diff.png
+map_Kd TwinSuperchargerBolt3_diff.png
+map_d TwinSuperchargerBolt3_diff.png
+
